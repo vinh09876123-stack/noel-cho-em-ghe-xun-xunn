@@ -1,2 +1,2 @@
-# noel-cho-em-ghe-xun-xunn
-noel
+# giang_sinh_an_lanh
+Mở bằng VS Code, Git trể tránh bị mất ảnh
